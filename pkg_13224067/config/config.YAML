@@ -1,0 +1,6 @@
+# configuration file for autonomous_bridge node
+ros__parameters:
+  input_topic: "autonomous_vel"
+  output_cmd_vel_topic: "cmd_vel"
+  output_cmd_type_topic: "cmd_type"
+

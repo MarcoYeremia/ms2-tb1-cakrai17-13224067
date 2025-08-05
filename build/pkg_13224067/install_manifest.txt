@@ -1,0 +1,15 @@
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/ament_index/resource_index/package_run_dependencies/pkg_13224067
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/ament_index/resource_index/parent_prefix_path/pkg_13224067
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/environment/ament_prefix_path.sh
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/environment/ament_prefix_path.dsv
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/environment/path.sh
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/environment/path.dsv
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/local_setup.bash
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/local_setup.sh
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/local_setup.zsh
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/local_setup.dsv
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/package.dsv
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/ament_index/resource_index/packages/pkg_13224067
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/cmake/pkg_13224067Config.cmake
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/cmake/pkg_13224067Config-version.cmake
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/install/pkg_13224067/share/pkg_13224067/package.xml

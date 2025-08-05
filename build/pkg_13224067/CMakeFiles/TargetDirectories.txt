@@ -1,0 +1,9 @@
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/uninstall.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/pkg_13224067_uninstall.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/test.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/edit_cache.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/rebuild_cache.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/list_install_components.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/install.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/install/local.dir
+/home/marcooyerr/tubes_ws/src/ms2-tb1-cakrai17-13224067/build/pkg_13224067/CMakeFiles/install/strip.dir
